@@ -9,5 +9,6 @@ This is a workshop of week 4.
 
 - Confuguration of Git
 - Setting users name and email
-- Creating Git repositary 
+- Working with markdown
+- Addin file to repositary
 
